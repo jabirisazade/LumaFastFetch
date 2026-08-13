@@ -1,0 +1,131 @@
+{
+
+"logo" : {
+
+"type" : "kitty",
+"source": "~/.config/fastfetch/girl.png",
+"width" : 45
+},
+
+
+"modules" : [
+
+"brak",
+"break",
+"break",
+"break",
+"break",
+"break",
+
+{
+
+"type" : "title",
+"key"  : " ",
+"keyColor" : "red"
+  
+},
+
+
+{
+
+"type" : "os",
+"key"  : " ",
+"keyColor" :"red",
+"outputColor" : "cyan"
+  
+},
+
+{
+
+"type" : "kernel",
+"key"  : " ",
+"keyColor" : "red",
+"outputColor" : "cyan",
+
+},
+
+{
+
+"type" : "cpu",
+"key"  : " ",
+"keyColor" : "red",
+"outputColor" : "cyan",
+  
+},
+
+{
+
+"type" : "wm",
+"key"  : " ",
+"keyColor" : "red",
+"outputColor" :"cyan",
+
+},
+
+{
+
+"type" : "memory",
+"key"  : " ",
+"keyColor" :"red",
+"outputColor" : "cyan",
+  
+},
+
+{
+
+"type" : "disk",
+"key"  : "󰋊 ",
+"keyColor" : "red",
+"outputColor" : "cyan",
+  
+},
+
+{
+
+"type" : "battery",
+"key"  : "󱧥 ",
+"keyColor" : "red",
+"outputColor" : "cyan",
+
+},
+
+{
+
+"type" : "terminal",
+"key"  : " ",
+"keyColor" : "red",
+"outputColor" : "cyan",
+
+},
+
+  
+]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+}
